@@ -1,0 +1,2 @@
+C:\Users\Feelgood_PC8\Desktop\연습\My project\obj\Debug\PhotonVoice.API.csproj.AssemblyReference.cache
+C:\Users\Feelgood_PC8\Desktop\연습\My project\obj\Debug\PhotonVoice.API.csproj.CoreCompileInputs.cache
